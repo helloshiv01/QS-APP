@@ -6,6 +6,7 @@ capture TimeStamp, Tracker, Value (based on the corresponding tracker type)
 and an optional note.
 Based on the logs in different trackers, the system will track progress over
 time and show trendlines.
+
 📝 How to Contribute?
 Take a look at the Existing Issues or create your own Issues!
 Wait for the Issue to be assigned to you after which you can start working on it.
