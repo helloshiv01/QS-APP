@@ -6,7 +6,6 @@ Quantified Self App is a web based dashboard application used for self­ trackin
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![GitHub watchers](https://badgen.net/github/watchers/helloshiv01/QS-APP/)](https://GitHub.com/helloshiv01/QS-APP/watchers/)
-![Profile views](https://gpvc.arturio.dev/helloshiv01)
 [![GitHub issues](https://img.shields.io/github/issues/helloshiv01/QS-APP)](https://GitHub.com/helloshiv01/QS-APP/issues/)
 
 
